@@ -12,7 +12,7 @@
 "wings-g": "0.1F",
 "wings-b": "0.1F",
 "cape-3": "true",
-"cape-4": "true",
+"cape-4": "false",
 "wings-crystal": "true",
 "wings-ghost": "true",
 "halo-enabled": "true"
@@ -30,7 +30,7 @@
 "wings-g": "0.1F",
 "wings-b": "0.1F",
 "cape-3": "true",
-"cape-4": "true",
+"cape-4": "false",
 "wings-crystal": "true",
 "wings-ghost": "true",
 "halo-enabled": "true"
